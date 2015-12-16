@@ -1,0 +1,9 @@
+!/usr/bin/gnuplot
+ 
+set title "Tcp Reno Congestion Window size vs Time"
+set xlabel "Time in seconds"
+set ylabel "Congestion window size"
+set term png
+set output "TcpReno.png"
+plot "TcpReno.txt" title "" with lines
+pause -1 "Hit any key to continue"
