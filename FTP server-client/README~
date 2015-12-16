@@ -1,0 +1,14 @@
+FTP Client and Server on top of TCP sockets
+
+You can use any port to run.
+./ server 9999
+./client 9999 127.0.0.1
+
+commands supported : cd,lcd,pwd,ls,get,put
+cd ~,cd / are all handled
+$ pwd returns present working directory of server ( from the virtual root) and  the current working directory of client
+$ get /SD1/a will get that file and paste it in the current working directory of client
+
+
+Typescript gives further instructions for running and testing the code
+            

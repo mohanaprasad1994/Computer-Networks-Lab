@@ -1,0 +1,34 @@
+Script started on Mon 26 Jan 2015 05:06:00 PM IST
+]0;no_name@NoEntry: ~/networks lab/assig1/sockets-sample-code/LAB1no_name@NoEntry:~/networks lab/assig1/sockets-sample-code/LAB1$ gcc tcpserver.c --o server[A]0;no_name@NoEntry: ~/networks lab/assig1/sockets-sample-code/LAB1no_name@NoEntry:~/networks lab/assig1/sockets-sample-code/LAB1$ ./ftpclient 127.0.0.1 9999[A]0;no_name@NoEntry: ~/networks lab/assig1/sockets-sample-code/LAB1no_name@NoEntry:~/networks lab/assig1/sockets-sample-code/LAB1$ [C[C[3Pserver 9999
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmake[Kgcc tcpserver.c --o server[A]0;no_name@NoEntry: ~/networks lab/assig1/sockets-sample-code/LAB1no_name@NoEntry:~/networks lab/assig1/sockets-sample-code/LAB1$ make[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./server 9999make[Kgcc tcpserver.c --o server[A]0;no_name@NoEntry: ~/networks lab/assig1/sockets-sample-code/LAB1no_name@NoEntry:~/networks lab/assig1/sockets-sample-code/LAB1$ [10Pscript
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat typescriptls[Kcat typescript [2P./server 9999[K[K[K[K[K[K[K[K[K[K[Kftpclient 127. 0.0.1 9999
+ls
+SD3
+tcpclient.c
+SD1
+SD2
+clientdata1
+tcpclient_m.c
+----------
+cd SD1
+ changed directory to /SD1
+cd SD2   ../SD2
+ changed directory to /SD2
+cd ~/SD3
+ changed directory to /SD3
+cd /SD1
+ changed directory to /SD1
+get b
+DONE
+get ../SD2/c
+DONE
+lcd FT      put   pwd
+ present workin directory of client is /home/no_name/networks lab/assig1/sockets-sample-code/LAB1
+present working directory of server is /SD1
+put clientdata2
+File sent
+quit
+]0;no_name@NoEntry: ~/networks lab/assig1/sockets-sample-code/LAB1no_name@NoEntry:~/networks lab/assig1/sockets-sample-code/LAB1$ exit
+
+Script done on Mon 26 Jan 2015 05:08:11 PM IST

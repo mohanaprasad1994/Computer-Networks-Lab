@@ -1,0 +1,28 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+int main(int atgc, char *argv[])
+{
+    int bytes_read = 1;
+    int nbytes = 10;
+    char my_string[1024];
+
+    
+
+    puts("Please enter a line of text");
+
+    bytes_read = getline(&my_string, &nbytes, stdin);
+
+    if (bytes_read == -1)
+    {
+        puts ("ERROR!");
+    }
+    else
+    {
+        puts ("You typed:");
+        puts (my_string);
+    }
+
+    return 0;
+}
