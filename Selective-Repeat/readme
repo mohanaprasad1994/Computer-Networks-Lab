@@ -1,0 +1,31 @@
+Implemented Selective repeat protocol over UDP. Selective ack was used for acknowledgements.
+
+
+udpclient.cpp file is the sender
+udpserver.cpp is the reciever.
+
+use make to generate the executables. run using ./sender and ./reciever with the appropriate options.
+
+Summary of Command Line Options: The command line options provided to the sender are listed below:
+• -d – Turn ON Debug Mode (OFF if -d flag not present)
+• -s string – Receiver Name or IP address.
+• -p integer – Receiver’s Port Number
+• -n integer – Sequence Number Field Length (in bits)
+• -L integer – MAX_PACKET_LENGTH, in bytes
+• -R integer – PACKET_GEN_RATE, in packets per second
+• -N integer – MAX_PACKETS
+• -W integer – WINDOW_SIZE (Assume that SWS = RWS)
+• -B integer – BUFFER_SIZE
+
+Summary of Command Line Options: The command line options provided to the receiver are listed below:
+• -d – Turn ON Debug Mode (OFF if -d flag not present)
+• -p integer – Receiver’s Port Number
+• -N integer – MAX_PACKETS
+• -n integer – Sequence Number Field Length (in bits)
+• -W integer – WINDOW_SIZE (SWS = RWS)
+• -B integer – BUFFER_SIZE
+• -e double – PACKET_ERROR_RATE
+
+
+typescript gives more details about running and testing the code.
+
