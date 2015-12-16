@@ -1,0 +1,288 @@
+Routing table for Node Id 8 Time = 0 seconds
+ Destination 	 Path 	 Cost
+0 	8-5-0	12
+1 	8-5-1	15
+2 	8-2	9
+3 	8-5-3	18
+4 	8-5-4	20
+5 	8-5	10
+6 	8-5-6	40
+7 	8-5-7	18
+9 	8-5-9	18
+10 	8-5-10	38
+Routing table for Node Id 8 Time = 20 seconds
+ Destination 	 Path 	 Cost
+0 	8-5-0	14
+1 	8-5-1	16
+2 	8-2	7
+3 	8-2-3	19
+4 	8-5-4	20
+5 	8-5	12
+6 	8-5-7-6	23
+7 	8-5-7	19
+9 	8-5-9	15
+10 	8-5-1-10	20
+Routing table for Node Id 8 Time = 40 seconds
+ Destination 	 Path 	 Cost
+0 	8-5-0	13
+1 	8-5-1	15
+2 	8-2	7
+3 	8-5-3	15
+4 	8-5-4	19
+5 	8-5	11
+6 	8-5-1-6	17
+7 	8-5-7	16
+9 	8-5-9	15
+10 	8-5-1-10	18
+Routing table for Node Id 8 Time = 60 seconds
+ Destination 	 Path 	 Cost
+0 	8-5-0	15
+1 	8-5-1	17
+2 	8-2	7
+3 	8-2-3	16
+4 	8-5-4	17
+5 	8-5	13
+6 	8-5-7-6	19
+7 	8-5-7	17
+9 	8-5-9	18
+10 	8-5-1-10	21
+Routing table for Node Id 8 Time = 80 seconds
+ Destination 	 Path 	 Cost
+0 	8-5-0	13
+1 	8-5-1	13
+2 	8-2	8
+3 	8-5-3	16
+4 	8-5-4	18
+5 	8-5	11
+6 	8-5-1-6	15
+7 	8-5-7	17
+9 	8-5-9	18
+10 	8-5-1-10	16
+Routing table for Node Id 8 Time = 100 seconds
+ Destination 	 Path 	 Cost
+0 	8-5-0	17
+1 	8-5-1	20
+2 	8-2	7
+3 	8-2-3	16
+4 	8-5-4	18
+5 	8-5	15
+6 	8-5-7-6	23
+7 	8-5-7	21
+9 	8-5-9	19
+10 	8-5-1-10	23
+Routing table for Node Id 8 Time = 120 seconds
+ Destination 	 Path 	 Cost
+0 	8-5-0	14
+1 	8-5-1	15
+2 	8-2	9
+3 	8-5-3	17
+4 	8-5-4	18
+5 	8-5	12
+6 	8-5-1-6	23
+7 	8-5-7	20
+9 	8-5-9	19
+10 	8-5-1-10	18
+Routing table for Node Id 8 Time = 140 seconds
+ Destination 	 Path 	 Cost
+0 	8-5-0	14
+1 	8-5-1	17
+2 	8-2	9
+3 	8-5-3	16
+4 	8-5-4	16
+5 	8-5	12
+6 	8-5-7-6	20
+7 	8-5-7	16
+9 	8-5-9	15
+10 	8-5-1-10	19
+Routing table for Node Id 8 Time = 160 seconds
+ Destination 	 Path 	 Cost
+0 	8-5-0	12
+1 	8-5-1	12
+2 	8-2	9
+3 	8-2-3	18
+4 	8-5-4	14
+5 	8-5	10
+6 	8-5-1-6	19
+7 	8-5-7	15
+9 	8-5-9	18
+10 	8-5-1-10	16
+Routing table for Node Id 8 Time = 180 seconds
+ Destination 	 Path 	 Cost
+0 	8-5-0	12
+1 	8-5-1	14
+2 	8-2	8
+3 	8-2-3	16
+4 	8-5-4	16
+5 	8-5	10
+6 	8-5-1-6	22
+7 	8-5-7	18
+9 	8-5-9	17
+10 	8-5-1-10	17
+Routing table for Node Id 8 Time = 200 seconds
+ Destination 	 Path 	 Cost
+0 	8-5-0	17
+1 	8-5-1	19
+2 	8-2	9
+3 	8-5-3	19
+4 	8-5-4	19
+5 	8-5	15
+6 	8-5-7-6	25
+7 	8-5-7	20
+9 	8-5-9	21
+10 	8-5-1-10	21
+Routing table for Node Id 8 Time = 220 seconds
+ Destination 	 Path 	 Cost
+0 	8-5-0	13
+1 	8-5-1	14
+2 	8-2	9
+3 	8-2-3	17
+4 	8-5-4	17
+5 	8-5	11
+6 	8-5-1-6	21
+7 	8-5-7	19
+9 	8-5-9	17
+10 	8-5-1-10	16
+Routing table for Node Id 8 Time = 240 seconds
+ Destination 	 Path 	 Cost
+0 	8-5-0	12
+1 	8-5-1	12
+2 	8-2	7
+3 	8-5-3	16
+4 	8-5-4	19
+5 	8-5	10
+6 	8-5-1-6	18
+7 	8-5-7	16
+9 	8-5-9	14
+10 	8-5-1-10	15
+Routing table for Node Id 8 Time = 260 seconds
+ Destination 	 Path 	 Cost
+0 	8-5-0	12
+1 	8-5-1	13
+2 	8-2	8
+3 	8-5-3	15
+4 	8-5-4	16
+5 	8-5	10
+6 	8-5-1-6	17
+7 	8-5-7	14
+9 	8-5-9	18
+10 	8-5-1-10	17
+Routing table for Node Id 8 Time = 280 seconds
+ Destination 	 Path 	 Cost
+0 	8-5-0	12
+1 	8-5-1	14
+2 	8-2	9
+3 	8-5-3	18
+4 	8-5-4	16
+5 	8-5	10
+6 	8-5-1-6	21
+7 	8-5-7	17
+9 	8-5-9	14
+10 	8-5-1-10	17
+Routing table for Node Id 8 Time = 300 seconds
+ Destination 	 Path 	 Cost
+0 	8-5-0	16
+1 	8-5-1	17
+2 	8-2	8
+3 	8-2-3	19
+4 	8-5-4	17
+5 	8-5	14
+6 	8-5-1-6	22
+7 	8-5-7	19
+9 	8-5-9	18
+10 	8-5-1-10	20
+Routing table for Node Id 8 Time = 320 seconds
+ Destination 	 Path 	 Cost
+0 	8-5-0	14
+1 	8-5-1	16
+2 	8-2	8
+3 	8-2-3	16
+4 	8-5-4	22
+5 	8-5	12
+6 	8-5-1-6	21
+7 	8-5-7	17
+9 	8-5-9	20
+10 	8-5-1-10	20
+Routing table for Node Id 8 Time = 340 seconds
+ Destination 	 Path 	 Cost
+0 	8-5-0	15
+1 	8-5-1	15
+2 	8-2	9
+3 	8-5-3	17
+4 	8-5-4	21
+5 	8-5	13
+6 	8-5-1-6	19
+7 	8-5-7	17
+9 	8-5-9	19
+10 	8-5-1-10	17
+Routing table for Node Id 8 Time = 360 seconds
+ Destination 	 Path 	 Cost
+0 	8-5-0	14
+1 	8-5-1	17
+2 	8-2	7
+3 	8-5-3	18
+4 	8-5-4	15
+5 	8-5	12
+6 	8-5-1-6	21
+7 	8-5-7	16
+9 	8-5-9	15
+10 	8-5-1-10	19
+Routing table for Node Id 8 Time = 380 seconds
+ Destination 	 Path 	 Cost
+0 	8-5-0	17
+1 	8-5-1	17
+2 	8-2	8
+3 	8-5-3	19
+4 	8-5-4	21
+5 	8-5	15
+6 	8-5-1-6	25
+7 	8-5-7	23
+9 	8-5-9	20
+10 	8-5-1-10	21
+Routing table for Node Id 8 Time = 400 seconds
+ Destination 	 Path 	 Cost
+0 	8-5-0	16
+1 	8-5-1	19
+2 	8-2	9
+3 	8-5-3	18
+4 	8-5-4	23
+5 	8-5	14
+6 	8-5-1-6	21
+7 	8-5-7	16
+9 	8-5-9	21
+10 	8-5-1-10	23
+Routing table for Node Id 8 Time = 420 seconds
+ Destination 	 Path 	 Cost
+0 	8-5-0	16
+1 	8-5-1	16
+2 	8-2	9
+3 	8-5-3	22
+4 	8-5-4	19
+5 	8-5	14
+6 	8-5-1-6	23
+7 	8-5-7	21
+9 	8-5-9	19
+10 	8-5-1-10	20
+Routing table for Node Id 8 Time = 440 seconds
+ Destination 	 Path 	 Cost
+0 	8-5-0	16
+1 	8-5-1	19
+2 	8-2	7
+3 	8-2-3	18
+4 	8-5-4	20
+5 	8-5	14
+6 	8-5-7-6	23
+7 	8-5-7	19
+9 	8-5-9	19
+10 	8-5-1-10	23
+Routing table for Node Id 8 Time = 460 seconds
+ Destination 	 Path 	 Cost
+0 	8-5-0	15
+1 	8-5-1	18
+2 	8-2	8
+3 	8-5-3	20
+4 	8-5-4	22
+5 	8-5	13
+6 	8-5-1-6	24
+7 	8-5-7	21
+9 	8-5-9	18
+10 	8-5-1-10	22

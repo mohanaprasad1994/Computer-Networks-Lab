@@ -1,0 +1,52 @@
+Routing table for Node Id 6 Time = 0 seconds
+ Destination 	 Path 	 Cost
+4 	6-4	3
+5 	6-5	4
+Routing table for Node Id 6 Time = 20 seconds
+ Destination 	 Path 	 Cost
+0 	6-4-2-1-0	12
+1 	6-4-2-1	9
+2 	6-4-2	7
+3 	6-5-3	9
+4 	6-4	3
+5 	6-5	4
+Routing table for Node Id 6 Time = 40 seconds
+ Destination 	 Path 	 Cost
+0 	6-4-2-1-0	12
+1 	6-4-2-1	9
+2 	6-4-2	7
+3 	6-5-3	9
+4 	6-4	3
+5 	6-5	4
+Routing table for Node Id 6 Time = 60 seconds
+ Destination 	 Path 	 Cost
+0 	6-4-2-1-0	12
+1 	6-4-2-1	9
+2 	6-4-2	7
+3 	6-5-3	9
+4 	6-4	3
+5 	6-5	4
+Routing table for Node Id 6 Time = 80 seconds
+ Destination 	 Path 	 Cost
+0 	6-4-2-1-0	12
+1 	6-4-2-1	9
+2 	6-4-2	7
+3 	6-5-3	9
+4 	6-4	3
+5 	6-5	4
+Routing table for Node Id 6 Time = 100 seconds
+ Destination 	 Path 	 Cost
+0 	6-4-2-1-0	12
+1 	6-4-2-1	9
+2 	6-4-2	7
+3 	6-5-3	9
+4 	6-4	3
+5 	6-5	4
+Routing table for Node Id 6 Time = 120 seconds
+ Destination 	 Path 	 Cost
+0 	6-4-2-1-0	12
+1 	6-4-2-1	9
+2 	6-4-2	7
+3 	6-5-3	9
+4 	6-4	3
+5 	6-5	4

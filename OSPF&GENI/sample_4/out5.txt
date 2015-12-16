@@ -1,0 +1,125 @@
+Routing table for Node Id 5 Time = 0 seconds
+ Destination 	 Path 	 Cost
+3 	5-3	5
+4 	5-4	2
+6 	5-6	8
+Routing table for Node Id 5 Time = 20 seconds
+ Destination 	 Path 	 Cost
+0 	5-4-2-1-0	14
+1 	5-4-2-1	9
+2 	5-4-2	7
+3 	5-3	10
+4 	5-4	2
+6 	5-4-6	7
+Routing table for Node Id 5 Time = 40 seconds
+ Destination 	 Path 	 Cost
+0 	5-3-0	14
+1 	5-3-1	13
+2 	5-4-2	10
+3 	5-3	8
+4 	5-4	4
+6 	5-6	8
+Routing table for Node Id 5 Time = 60 seconds
+ Destination 	 Path 	 Cost
+0 	5-3-0	15
+1 	5-4-2-1	13
+2 	5-4-2	9
+3 	5-3	9
+4 	5-4	4
+6 	5-6	8
+Routing table for Node Id 5 Time = 80 seconds
+ Destination 	 Path 	 Cost
+0 	5-4-2-1-0	15
+1 	5-4-2-1	9
+2 	5-4-2	7
+3 	5-3	9
+4 	5-4	3
+6 	5-6	5
+Routing table for Node Id 5 Time = 100 seconds
+ Destination 	 Path 	 Cost
+0 	5-3-0	11
+1 	5-4-2-1	12
+2 	5-4-2	8
+3 	5-3	7
+4 	5-4	2
+6 	5-4-6	7
+Routing table for Node Id 5 Time = 120 seconds
+ Destination 	 Path 	 Cost
+0 	5-3-0	15
+1 	5-4-2-1	13
+2 	5-4-2	9
+3 	5-3	8
+4 	5-4	3
+6 	5-6	7
+Routing table for Node Id 5 Time = 140 seconds
+ Destination 	 Path 	 Cost
+0 	5-3-0	10
+1 	5-4-2-1	10
+2 	5-4-2	6
+3 	5-3	6
+4 	5-4	2
+6 	5-4-6	5
+Routing table for Node Id 5 Time = 160 seconds
+ Destination 	 Path 	 Cost
+0 	5-4-2-1-0	15
+1 	5-4-2-1	11
+2 	5-4-2	8
+3 	5-3	10
+4 	5-4	4
+6 	5-6	7
+Routing table for Node Id 5 Time = 180 seconds
+ Destination 	 Path 	 Cost
+0 	5-3-0	13
+1 	5-4-2-1	8
+2 	5-4-2	6
+3 	5-3	7
+4 	5-4	2
+6 	5-6	7
+Routing table for Node Id 5 Time = 200 seconds
+ Destination 	 Path 	 Cost
+0 	5-3-0	14
+1 	5-4-2-1	12
+2 	5-4-2	8
+3 	5-3	7
+4 	5-4	4
+6 	5-6	6
+Routing table for Node Id 5 Time = 220 seconds
+ Destination 	 Path 	 Cost
+0 	5-4-2-1-0	14
+1 	5-4-2-1	11
+2 	5-4-2	9
+3 	5-3	7
+4 	5-4	3
+6 	5-6	6
+Routing table for Node Id 5 Time = 240 seconds
+ Destination 	 Path 	 Cost
+0 	5-4-2-1-0	13
+1 	5-4-2-1	8
+2 	5-4-2	6
+3 	5-3	9
+4 	5-4	2
+6 	5-6	6
+Routing table for Node Id 5 Time = 260 seconds
+ Destination 	 Path 	 Cost
+0 	5-3-0	13
+1 	5-4-2-1	11
+2 	5-4-2	7
+3 	5-3	9
+4 	5-4	3
+6 	5-4-6	6
+Routing table for Node Id 5 Time = 280 seconds
+ Destination 	 Path 	 Cost
+0 	5-3-0	14
+1 	5-4-2-1	13
+2 	5-4-2	10
+3 	5-3	9
+4 	5-4	2
+6 	5-6	5
+Routing table for Node Id 5 Time = 300 seconds
+ Destination 	 Path 	 Cost
+0 	5-3-0	15
+1 	5-4-2-1	12
+2 	5-4-2	10
+3 	5-3	9
+4 	5-4	3
+6 	5-4-6	6

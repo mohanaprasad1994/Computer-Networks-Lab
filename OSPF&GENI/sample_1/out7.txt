@@ -1,0 +1,54 @@
+Routing table for Node Id 7 Time = 20.0085 seconds
+ Destination 	 Path 	 Cost
+0 	7-3-0	10
+1 	7-4-1	8
+2 	7-3-2	7
+3 	7-3	3
+4 	7-4	3
+5 	7-3-5	7
+6 	7-4-6	5
+Routing table for Node Id 7 Time = 40.0116 seconds
+ Destination 	 Path 	 Cost
+0 	7-3-0	11
+1 	7-3-2-1	12
+2 	7-3-2	8
+3 	7-3	4
+4 	7-4	8
+5 	7-3-5	8
+6 	7-4-6	11
+Routing table for Node Id 7 Time = 60.0147 seconds
+ Destination 	 Path 	 Cost
+0 	7-3-0	10
+1 	7-4-1	10
+2 	7-3-2	8
+3 	7-3	4
+4 	7-4	5
+5 	7-3-5	8
+6 	7-4-6	8
+Routing table for Node Id 7 Time = 80.0179 seconds
+ Destination 	 Path 	 Cost
+0 	7-3-0	7
+1 	7-4-1	7
+2 	7-3-2	6
+3 	7-3	3
+4 	7-4	4
+5 	7-3-5	10
+6 	7-4-6	7
+Routing table for Node Id 7 Time = 100.021 seconds
+ Destination 	 Path 	 Cost
+0 	7-3-0	8
+1 	7-4-1	9
+2 	7-3-2	6
+3 	7-3	4
+4 	7-4	5
+5 	7-3-5	10
+6 	7-4-6	9
+Routing table for Node Id 7 Time = 120.024 seconds
+ Destination 	 Path 	 Cost
+0 	7-3-0	11
+1 	7-3-1	8
+2 	7-3-2	9
+3 	7-3	4
+4 	7-4	7
+5 	7-3-5	9
+6 	7-4-6	9
